@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         tuteeButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this, SelectSubject.class);
+                Intent i = new Intent(MainActivity.this, UserSearchPAge.class);
                 startActivity(i);
             }
 

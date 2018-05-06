@@ -1,4 +1,4 @@
-package com.example.hpuser.access2ed;
+/*package com.example.hpuser.access2ed;
 
 
 import android.support.v7.widget.RecyclerView;
@@ -53,3 +53,4 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         return mDataset.length;
     }
 }
+*/
