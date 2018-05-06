@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Tutor_Resume" />
+        <activity android:name=".Tutor_resume" />
+        <activity android:name=".Review_tutor_page"></activity>
     </application>
 
 </manifest>
