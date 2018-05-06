@@ -18,6 +18,9 @@
         </activity>
         <activity android:name=".SelectTutor3" />
         <activity android:name=".SelectSubject"></activity>
+       <!-- <activity android:name=".Tutor_Resume" /> -->
+        <activity android:name=".Tutor_resume" />
+        <activity android:name=".Review_tutor_page"></activity>
     </application>
 
 </manifest>
